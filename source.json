@@ -15,7 +15,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "SleetCat123/ApplyPrefabWindow",
-        "SleetCat123/BookmarkAndHistory"
+        "SleetCat123/BookmarkAndHistory",
+        "SleetCat123/MizoresUnityPackageExporter"
     ],
     "packages":[
     ]
