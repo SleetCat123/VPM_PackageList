@@ -1,7 +1,7 @@
 {
-    "name":"Mizore Nekoyanagi's VPM Package List",
-    "id":"com.mizore-nekoyanagi.vpm-package-list",
-    "url":"https://SleetCat123.github.io/VPM_PackageList/index.json",
+    "name":"Mizore Nekoyanagi's VPM Packages",
+    "id":"com.mizore-nekoyanagi.vpm-packages",
+    "url":"https://SleetCat123.github.io/vpm-packages/index.json",
     "author":{
         "email":"",
         "name":"Mizore Nekoyanagi",
@@ -9,7 +9,7 @@
     },
     "description":"",
     "infoLink":{
-        "url":"https://github.com/SleetCat123/VPM_PackageList",
+        "url":"https://github.com/SleetCat123/vpm-packages",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
